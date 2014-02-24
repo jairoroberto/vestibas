@@ -1,0 +1,168 @@
+/* CSS CUSTOM BY JAIRO - 18/02/2014 */
+.container{width: 940px;}
+.container{padding-left:0; padding-right: 0}
+.container h1{font-size: 18px; font-weight: normal; color: #1b6c5e; margin-top: 15px}
+.container h2{font-size:24px; font-weight:200}
+.container h2, .container h3, .container h4 , .container h5{color:#1b6c5e}
+
+.margin-right10{margin-right: 10px}
+.margin-bottom10{margin-bottom: 10px}
+.margin-bottom20{margin-bottom: 20px}
+.margin-top10{margin-top: 10px}
+.size10{font-size:10px}
+.size11{font-size:11px}
+.size12{font-size:12px}
+.size13{font-size:13px}
+.size14{font-size:14px !important}
+.size65{font-size: 65px}
+
+.margin0{margin:0 !important}
+.padding-topC{padding-top: 28px !important}
+.padding-top15{padding-top: 15px !important}
+
+
+.black{color:#000 !important}
+.grey-light{color: #666 !important}
+.green-light{color:#53ceb3 !important} 
+
+.blue{color:#70cbf4 !important}
+
+.subline{text-decoration: underline}
+.white{color:#ffffff}
+
+.bg-grey{background: #f2f2f2}
+
+/* HEADER */
+.header{width: 100%; height: 52px; background: #1b6c5e; border-bottom:3px solid #66cccc }
+.logo{width: 215px; height: 50px; background:URL("../images/logo-vestibas.png") no-repeat; float:left}
+.logo h1{padding: 0; margin: 0;}
+.logo h1 a{display: block; text-indent: -5000px; overflow: hidden}
+
+.menu{width: 37%; float: left; margin-left:100px };
+.menu ul{padding: 0; margin: 0;}
+.menu ul li{float: left;  list-style-type: none !important}
+.menu ul li a {padding:12px 22px; display: block; color:#fff; font-size: 14px;}
+.menu ul li a:hover {background: #054139;}
+
+
+.logado {width: 200px; float: right; text-align: center}
+.logado .lg{color:#66cccc; font-size:14px; background: #054139; display: block; padding:12px 10px;}
+.logado .lg .caret{border-top:6px solid #66cccc;}
+.logado .dropdown-menu{right:0 !important}
+
+
+.nao-logado {float: right; text-align: center}
+.nao-logado .lg{color:#054139; font-size:14px; background: #66cccc; display: inline-block; padding:14px 30px;}
+
+.nao-logado .lg:hover{color:#000; background: #6be4e4 ;}
+.nao-logado .lg .caret{border-top:6px solid #66cccc;}
+.nao-logado .dropdown-menu{right:0 !important}
+
+
+
+/* ESTATISTICAS */
+
+.container .row{margin-left: 0; margin-right: 0}
+.box-choose{padding: 14px 0px 14px 14px; background:#1b6c5e; border-radius: 3px; color: #ffffff}
+
+.box-choose .control-label{font-size: 13px}
+.box-choose .select{margin-bottom: 0; margin-left: 10px}
+.box-choose .select .btn{width: 220px;}
+.box-choose .dropdown-menu{min-width: 220px}
+
+.disciplina h3{color: #66cccc; font-size: 22px; display: inline-block;}
+.info{font-size:11px; color:#cc0000; text-align: right; margin-top:20px}
+.panel-group h4 a{color: #0b6f61; width: 66%; display: inline-block}
+.panel-group h5{color: #0b6f61; font-size:18px; border-bottom:1px dotted #ccc; padding-bottom: 10px }
+
+.panel-title .progress{width:150px; float:right; margin-bottom:0; height: 19px; background: none repeat scroll 0 0 #FFFFFF;border-radius: 3px; border: 1px solid #F2F2F2;}
+
+/* FOOTER */
+
+.foo{width:100%; min-height:100px; background:#1b6c5e ; margin-top:40px; font-family: Arial, Sans-Serif }
+.foo h6{color:#60cdb1; margin-bottom:20px}
+.nav-foo{margin:0; padding:0; margin-bottom:18px}
+.nav-foo li{list-style-type: none; font-size:11px; margin-top:8px }
+.nav-foo a{color:#60cdb1}
+
+.copy{background: #60ceb1; color:#1b6c5e;font-family: Arial, Sans-Serif; padding:10px 10px 1px 10px}
+.copy p{line-height: 13px}
+
+.social{margin-top:10px}
+.social a{padding:10px; }
+
+/* CADASTRO */
+.wrap-cadastro{width:940px; background: #ffffff; border-radius: 3px; border:1px solid #ddd; margin-top:40px}
+
+.col-cadastro{float:left; width:610px; padding:20px 20px 0px 20px}
+.col-landing{float:left; width: 27%;  min-height: 100px; margin-top:40px; 30px 10px 10px 0px}
+
+.col-landing blockquote {background: url("../images/quote.png") no-repeat scroll 7px 2px rgba(0, 0, 0, 0);color: #2F353E;float: left;font-family: "Lato","Helvetica Neue",Arial,sans-serif;font-size: 17px;font-size-adjust: 0.48;font-style: italic;font-weight: 200;letter-spacing: 0.03em;line-height: 20px;margin: 0 0 55px 10px;padding: 10px 0px 0 33px;width: 100%;border-left:3px solid #f2f2f2 !important;}
+.col-landing blockquote.op2 {background:none !important;color: #777;float: left;font-family: "Lato" ,Arial,sans-serif;font-size: 14px;font-size-adjust: 0.48;font-style:normal !important;font-weight:400;letter-spacing: 0.03em;line-height: 20px;margin: 0 0 55px 10px;padding: 10px 0px 0 33px;width: 100%;border-left:none !important;}
+
+.planos{width: 100%; float: left; padding:15px}
+.planos .col-xs-12{padding-left:0 !important;padding-right:0 !important; }
+
+.todo h2, .todo h3, .todo h4 , .todo h5{color:#fff}
+.planos .todo-search{font-size:25px; background:#ccc;}
+.planos .todo-search:before{display: none !important}
+.box-comprar .btn-lg{padding:25px; font-size:18px}
+
+/* componentes MKT HOME */
+.banner-main{width: 100%; background: #eef1f1 ; text-align: center; border-bottom:3px solid #53ceb3; margin-bottom:25px}
+
+.red-box {background-color: #FF7265;}
+.blue-box {background-color: #56a6d8 ;}
+.green-box {background-color: #56bda0 ;}
+.solution-box {border-radius: 3px;float: left;overflow: hidden;position: relative;width: 302px; margin-right:17px}
+.solution-box .slsn-hd {color: #FFFFFF;font-family: 'Lato',sans-serif;font-size: 18px;padding: 15px;}
+.solution-box p {background-color: rgba(0, 0, 0, 0.05);color: #FFFFFF;margin: 0;min-height: 110px;padding: 8px 18px;}
+.solution-box p{ font: 100 20px "Lato",Arial,sans-serif;text-align: center;}
+
+.ico-alvo { background: url('../images/sprite.png') no-repeat -4px -5px; width: 50px; height: 50px; margin-top:10px }
+.ico-time{ background: url('../images/sprite.png') no-repeat -5px -152px; width: 50px; height: 50px; margin-top:10px }
+.ico-est{ background: url('../images/sprite.png') no-repeat -9px -292px; width: 50px; height: 50px; margin-top:10px }
+
+/* testemunhais */
+ol.slats {
+    margin-top: 35px;
+    
+}
+ol.slats li {
+    margin: 0 0 0px 0;
+    padding: 0 0 0px 0;
+    list-style-type: none;
+    float: left;
+    width: 48%;
+   background: url("../images/quote.png") no-repeat scroll 116px 22px rgba(0, 0, 0, 0);
+}
+ol.slats li:last-child {
+    margin: 0;
+    padding: 0;
+    border-bottom: none;
+}
+ol.slats li a h3 {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-top: 0;
+}
+ol.slats li a img {
+    float: left;
+    margin: 0 10px 0 0;
+    padding: 4px 24px 100px 4px;
+    
+}
+
+ol.slats li a p {
+    margin: 0 0 0 76px;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #555;
+}
+ol.slats li a p span.meta {
+    display: block;
+    font-size: 12px;
+    color: #999;
+    margin-top: 5px
+}

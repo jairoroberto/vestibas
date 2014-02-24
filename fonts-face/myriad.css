@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'MyriadProRegular';
+    src: url('myriadpro-regular.eot');
+    src: url('myriadpro-regular.eot') format('embedded-opentype'),
+         url('myriadpro-regular.woff') format('woff'),
+         url('myriadpro-regular.ttf') format('truetype'),
+         url('myriadpro-regular.svg#MyriadProRegular') format('svg');
+}
+
+
+@font-face {
+    font-family: 'MyriadProItalic';
+    src: url('myriadpro-it.eot');
+    src: url('myriadpro-it.eot') format('embedded-opentype'),
+         url('myriadpro-it.woff') format('woff'),
+         url('myriadpro-it.ttf') format('truetype'),
+         url('myriadpro-it.svg#MyriadProItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'MyriadProBold';
+    src: url('myriadpro-bold.eot');
+    src: url('myriadpro-bold.eot') format('embedded-opentype'),
+         url('myriadpro-bold.woff') format('woff'),
+         url('myriadpro-bold.ttf') format('truetype'),
+         url('myriadpro-bold.svg#MyriadProBold') format('svg');
+}
+
+@font-face {
+    font-family: 'MyriadProSemibold';
+    src: url('myriadpro-semibold.eot');
+    src: url('myriadpro-semibold.eot') format('embedded-opentype'),
+         url('myriadpro-semibold.woff') format('woff'),
+         url('myriadpro-semibold.ttf') format('truetype'),
+         url('myriadpro-semibold.svg#MyriadProSemibold') format('svg');
+}
+
+.myriad{font-family: MyriadProRegular, Arial, Sans-Serif !important;}
+
+.myriad-bold{font-family: MyriadProBold, Arial, Sans-Serif !important;}
+
+
+
